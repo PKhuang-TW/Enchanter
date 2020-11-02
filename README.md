@@ -61,14 +61,12 @@ To start playing Enchanter, Python 3.6 and CUDA 9.0 has to be installed. Pytorch
 
 ### Installation
 
-1. Pytorch
-<br>
+1. Pytorch<br>
 If you can't find the installation method of pytorch:
 ```sh
 ./NecessaryPackage/Pytorch_Python36_CUDA9.bat
 ```
-2. Python Packages
-<br>
+2. Python Packages<br>
 There are several packages like: sockets, tqdm.... have to be installed:
 ```sh
 ./NecessaryPackage/PythonPackage.bat
