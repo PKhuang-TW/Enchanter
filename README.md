@@ -10,10 +10,9 @@
   <p align="center">
     Multiplayer VR Game with Gesture Recognition
     <br />
-    <a href="https://github.com/PKhuang-TW/Enchanter"><strong>Download the Game</strong></a>
-    <br />
-    <br />
     <a href="https://www.youtube.com/watch?v=ky6uT86vLYI&t">View Demo</a>
+    .
+    <a href="https://github.com/PKhuang-TW/Enchanter"><strong>Download Game EXE file</strong></a>
     .
     <a href="https://github.com/PKhuang-TW/Enchanter.unitypackage">Download Unity Package</a>
   </p>
