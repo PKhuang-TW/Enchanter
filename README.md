@@ -10,9 +10,9 @@
     <br />
     <a href="https://www.youtube.com/watch?v=ky6uT86vLYI&t">View Demo</a>
     .
-    <a href="https://github.com/PKhuang-TW/Enchanter">Game EXE file</a>
+    <a href="https://github.com/PKhuang-TW/Enchanter/tree/master/Enchanter">Game EXE file</a>
     .
-    <a href="https://github.com/PKhuang-TW/Enchanter.unitypackage">Unity Package</a>
+    <a href="https://github.com/PKhuang-TW/Enchanter/tree/master/Enchanter.unitypackage">Unity Package</a>
   </p>
 </p>
 
