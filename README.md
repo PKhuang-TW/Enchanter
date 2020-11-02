@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/PKhuang-TW/Enchanter/blob/master/imgs/poster.png">
-    <img src="imgs/poster.png" alt="Poster" width="400">
+    <img src="imgs/poster.png" alt="Poster" width="350">
   </a>
   <h3 align="center">Enchanter</h3>
   <p align="center">
