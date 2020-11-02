@@ -12,9 +12,9 @@
     <br />
     <a href="https://www.youtube.com/watch?v=ky6uT86vLYI&t">View Demo</a>
     .
-    <a href="https://github.com/PKhuang-TW/Enchanter"><strong>Download Game EXE file</strong></a>
+    <a href="https://github.com/PKhuang-TW/Enchanter">Game EXE file</a>
     .
-    <a href="https://github.com/PKhuang-TW/Enchanter.unitypackage">Download Unity Package</a>
+    <a href="https://github.com/PKhuang-TW/Enchanter.unitypackage">Unity Package</a>
   </p>
 </p>
 
@@ -45,13 +45,13 @@ This project is a *Multiplayer VR Game with Gesture Recognition**
 
 ### Built With
 
-* [Unity-2017.4.1] (https://unity3d.com)
-* [Python 3.6] (https://www.python.org/downloads/release/python-360/)
-* [CUDA 9.0] (https://developer.nvidia.com/cuda-90-download-archive)
-* [Pytorch] (https://pytorch.org) : Has to mactch the version of Python and CUDA.
+* [Unity 2017.4.1](https://unity3d.com)
+* [Python 3.6](https://www.python.org/downloads/release/python-360/)
+* [CUDA 9.0](https://developer.nvidia.com/cuda-90-download-archive)
+* [Pytorch](https://pytorch.org) : Has to mactch the version of Python and CUDA.
 * [Photon](https://www.photonengine.com/zh-TW/Photon)
 * [Final IK](https://assetstore.unity.com/packages/tools/animation/final-ik-14290?gclid=Cj0KCQjwufn8BRCwARIsAKzP6967iMRUnoCr9pBa3LgBCQehINS8GzqnlY0Hh_iXk-BvSXZcUF8JLt4aAlIDEALw_wcB)
-* [Photoshop] (https://www.adobe.com/tw/products/photoshop.html)
+* [Photoshop](https://www.adobe.com/tw/products/photoshop.html)
 
 ### Procedure
 ![Procedure](https://github.com/PKhuang-TW/Enchanter/blob/master/imgs/procedure.png)
@@ -63,7 +63,7 @@ To start playing Enchanter, Python 3.6 and CUDA 9.0 has to be installed. Pytorch
 
 ### Installation
 
-1.Pytorch
+1. Pytorch
 If you can't find the installation method of pytorch:
 ```sh
 ./NecessaryPackage/Pytorch_Python36_CUDA9.bat
