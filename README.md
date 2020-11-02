@@ -40,7 +40,7 @@ This project is a *Multiplayer VR Game with Gesture Recognition**
 - [x] Gesture Recognition
 - [x] Support up to 4 players
 
-[![Screen Shot](https://github.com/PKhuang-TW/Enchanter/blob/master/imgs/ScreenShot.png)
+![Screen Shot](https://github.com/PKhuang-TW/Enchanter/blob/master/imgs/ScreenShot.png)
 
 
 ### Built With
