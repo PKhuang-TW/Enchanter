@@ -31,7 +31,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a *Multiplayer VR Game with Gesture Recognition**
+This is a **Multiplayer VR Game** with **Gesture Recognition**. Players fight against each other by casting magic spells drew by their VR controller. Enchanter is developed on HTC VIVE, and [Photon](https://www.photonengine.com/zh-TW/Photon) is used to synchronize the connection. A CNN model is trained to recognize gestures, with five spell symbols and one noise category. We have designed a total of nine skills, each of which has its own characteristics. Players can choose five corresponding spell symbols in the lobby. In addition, in order to prevent dizziness when the player moves in the game, we narrowed the field of view when the user turns his head or moves in the game.
 
 - [x] Terrain and Surroundings
 - [x] Skill Effects
